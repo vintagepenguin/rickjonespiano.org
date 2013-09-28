@@ -63,6 +63,8 @@
   background-image: url(../img/greyzz.png);
 }
 
+
+
 .main-footer{
   width: 100%; 
  
@@ -108,12 +110,15 @@
 .one{
   background-color: #ffffff;   
 }
+
 .two{
   background-image: url(../img/greyzz.png);
 }
+
 .three{
  background-color: #ffffff;  
 }
+
 .four{
  background-color: #eff0f1;
  background-image: url(../img/greyzz.png);
@@ -121,6 +126,11 @@
 
 body {
   margin: 0; 
+}
+
+a{
+  text-decoration: none;
+  color: black
 }
 
 .myButton {
@@ -172,3 +182,4 @@ body {
     position:relative;
     top:1px;
 }
+
